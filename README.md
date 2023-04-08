@@ -10,9 +10,9 @@ The template comes with a custom modal that pulls in the correct image and proje
 
 ## Table of contents
 
-- [Requirements](#requirements)
+- [Requirements](#Sanchez Barkley)
 - [Quick Start](#quick-start)
-- [Template Pages](#template-pages)
+- [Template Pages](#Portfolio)
 - [Demo Link](#demo-link)
 - [Template Key Features](#template-key-features)
 - [Template File Structure](#template-file-structure)
